@@ -10,7 +10,9 @@ Welcome to DS 320 Project's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+NHL API Game events
++++++++++++++++++++++++++++++++++++++++++++
+Just trying to make this thing work.
 
 Indices and tables
 ==================
